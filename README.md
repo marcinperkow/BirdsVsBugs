@@ -7,7 +7,7 @@ Click [here](https://github.com/marcinperkow/BirdsVsBugs) to download the game.
 ## Pictures
 
 ![Gameplay Picture](https://marcinperkowski.com/BirdsVsBugsLocal/p0.png)
-![Gameplay Picture](https://marcinperkowski.com/BirdsVsBugsLocal/p1.png)
+![Main Menu Picture](https://marcinperkowski.com/BirdsVsBugsLocal/p1.png)
 ![Gameplay Picture](https://marcinperkowski.com/BirdsVsBugsLocal/p2.png)
 ![Gameplay Picture](https://marcinperkowski.com/BirdsVsBugsLocal/p3.png)
 ![Gameplay Picture](https://marcinperkowski.com/BirdsVsBugsLocal/p4.png)
